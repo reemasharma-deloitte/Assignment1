@@ -28,7 +28,8 @@ select team_lost from fixtures where venue='Kolkata';
 
 select match_number,venue from fixtures inner join TeamDetails on TeamDetails.Home_Ground=
 Fixtures.venue where venue='Banglore';
-
+ 
+sql queries
 
 
 
